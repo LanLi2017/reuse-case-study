@@ -1,0 +1,21 @@
+age,type_employer,fnlwgt,education,education_num,marital,occupation,relationship,race,sex,capital_gain,capital_loss,hr_per_week,country,income
+36, Self-emp-not-inc,288585, HS-grad,9, Married-civ-spouse, Other-service, Wife, Asian-Pac-Islander, Female,0,0,20, South, <=50K
+21, Private,176356, Assoc-acdm,12, Never-married, Adm-clerical, Own-child, White, Female,0,0,20, United-States, <=50K
+44, Private,328561, Assoc-voc,11, Married-civ-spouse, Adm-clerical, Other-relative, White, Female,0,0,20, United-States, <=50K
+45, Private,246392, HS-grad,9, Never-married, Priv-house-serv, Unmarried, Black, Female,0,0,30, United-States, <=50K
+31, State-gov,350651, 12th,8, Married-civ-spouse, Tech-support, Wife, White, Female,0,0,40, United-States, >50K
+35, Private,170617, HS-grad,9, Never-married, Machine-op-inspct, Unmarried, Black, Female,0,0,48, United-States, <=50K
+28, Self-emp-not-inc,33035, 12th,8, Divorced, Other-service, Unmarried, White, Female,0,0,30, United-States, <=50K
+26, Self-emp-not-inc,68729, HS-grad,9, Never-married, Sales, Other-relative, Asian-Pac-Islander, Male,0,0,50, United-States, >50K
+27, Self-emp-not-inc,259873, HS-grad,9, Married-civ-spouse, Other-service, Husband, Black, Male,0,0,60, United-States, >50K
+42, Self-emp-not-inc,53956, HS-grad,9, Divorced, Exec-managerial, Unmarried, White, Male,0,0,55, United-States, <=50K
+31, Private,369825, Bachelors,13, Never-married, Sales, Not-in-family, White, Male,4101,0,50, United-States, <=50K
+44, Self-emp-inc,178510, Some-college,10, Never-married, Sales, Not-in-family, White, Male,0,2258,60, United-States, <=50K
+74, ?,292627, 1st-4th,2, Married-civ-spouse, ?, Husband, Black, Male,0,0,40, United-States, <=50K
+43, State-gov,227910, Assoc-voc,11, Married-civ-spouse, Prof-specialty, Wife, White, Female,0,0,40, United-States, >50K
+25, Private,241626, HS-grad,9, Never-married, Other-service, Own-child, White, Male,0,0,30, United-States, <=50K
+51, Local-gov,277024, HS-grad,9, Separated, Protective-serv, Not-in-family, Black, Male,0,0,40, United-States, <=50K
+26, Private,150132, HS-grad,9, Never-married, Adm-clerical, Not-in-family, White, Female,0,0,45, United-States, <=50K
+36, Private,218490, Assoc-acdm,12, Married-civ-spouse, Craft-repair, Husband, White, Male,0,0,35, United-States, <=50K
+33, Private,477106, HS-grad,9, Married-civ-spouse, Transport-moving, Husband, Black, Male,0,0,40, United-States, <=50K
+40, Private,79372, HS-grad,9, Divorced, Sales, Not-in-family, White, Female,0,0,40, United-States, <=50K
